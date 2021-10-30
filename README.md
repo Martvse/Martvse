@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Martvse
-- 👀 I’m interested in JavaScript, Python, HTML, PHP, CSS, Angular/Ionic, C#, Java, OpenCV
+- 👀 I’m interested and created applications/websites with JavaScript, Python, HTML, PHP, CSS, Angular/Ionic, C#, Java, OpenCV, Vue, Dart, Flutter, Svelte, NodeJs, Springboot
 - 🌱 I’m currently learning Springboot with JPA
 
 <!---
